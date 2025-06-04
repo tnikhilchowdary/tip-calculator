@@ -6,7 +6,7 @@ A simple and elegant **React** application that helps users quickly calculate th
 
 ##  Preview
 
-![Tip Calculator Screenshot](.src/screenshot.png)
+![Tip Calculator Screenshot](./src/screenshot.png)
 
 ---
 
